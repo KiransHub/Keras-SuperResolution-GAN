@@ -1,4 +1,4 @@
-The Upscaler Project
+Keras-SuperResolution-GAN Project
 ===
 
 # Introduction
