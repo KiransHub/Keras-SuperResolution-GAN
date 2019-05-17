@@ -1,0 +1,14 @@
+name: keras-superresolution
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+    - tensorflow-gpu==1.13.1
+    - scikit-learn==0.12.1
+    - scikit-image==0.15.0
+    - google-images-download==2.7.1
+    - Pillow==6.0.0
+    - numpy==1.16.3
