@@ -1,7 +1,7 @@
 The Upscaler Project
 ===
 
-#Introduction
+# Introduction
 
 I'm currently experimenting with Generative Adverserial Networks (GANS). In an attempt to get to grips with using them in practise I started this example real world project. 
 
